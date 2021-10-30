@@ -18,12 +18,18 @@
 - Empty lines indicate new mutation block
   - Therefore, mutation blocks cannot contain empty lines
   - All statements are one after another, no space in-between
+  - It feels like a paragraph-style design
 - `value` keyword represents the current item from the data set
   - Maybe consider `item` instead since it is less characters
 
-### Current Issues
+### Current Issues/Ideas
 - How to aggregate/increase data sets
 - Built-in functomality (printing, etc)
 - Show data at each control point
   - Like 'AutoRest spitting out files at each step' concept
+  - Call it a `probe` or something like that. You can just place the probe at any control point. Or even have multiple probes, kinda like how you have the 'watch' window for variables in IDEs.
 - Output bucket notation in control-side
+- Does the language have variables?
+  - Variables in most language seem like a poor way to either break up the length of a single statement or 'hold something in-hand' until it is needed
+- When creating this, think less 'matematical' and notice what feels natural when solving a problem
+  - You should never have to read any information from right-to-left. All reading/writing should be left-to-right.
