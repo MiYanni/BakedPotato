@@ -33,3 +33,6 @@
   - Variables in most language seem like a poor way to either break up the length of a single statement or 'hold something in-hand' until it is needed
 - When creating this, think less 'matematical' and notice what feels natural when solving a problem
   - You should never have to read any information from right-to-left. All reading/writing should be left-to-right.
+  - Keyboard keys limit ingenuity a bit because you have only so many default symbols and such.
+  - Try to limit amount of modifier keys required (shift, ctrl, alt, etc)
+  - Limit number of characters required to make statements
