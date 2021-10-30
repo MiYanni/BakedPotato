@@ -1,0 +1,23 @@
+Make start end
+` Likely need a way to propagate data (?)
+
+FizzBuzz
+value / 3 | value / 5 => 'FizzBuzz'
+=> value
+
+Fizz
+value / 3 => 'Fizz'
+=> value
+
+Buzz
+value / 5 => 'Buzz'
+=> value
+
+Show
+` Maybe this is built into the language (?)
+
+``` Notes
+` => (arrow) could mean 'happy bucket'
+` Without a left-hand element, it could inherently mean `true`, thus 'default if unhandled'
+` ^ (carat) could mean 'discard'
+` % (percent) could mean 'sad bucket'
