@@ -36,3 +36,6 @@
   - Keyboard keys limit ingenuity a bit because you have only so many default symbols and such.
   - Try to limit amount of modifier keys required (shift, ctrl, alt, etc)
   - Limit number of characters required to make statements
+- Programming languages don't display 'time' of operations
+  - Consider showing time information in control blocks/nodes/points
+  - Consider making them displayed visually, similar to music arranging software (timeline). Maybe color coding or sized differently.
