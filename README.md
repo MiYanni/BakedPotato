@@ -1,5 +1,6 @@
 # Control + Mutation = Baked Potato
 ### A control flow, data-driven language
+TODO: Maybe it isn't 'control flow' but instead 'flow control'?
 ---
 ### Notation Notes
 
