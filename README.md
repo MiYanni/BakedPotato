@@ -4,6 +4,7 @@ TODO: Maybe it isn't 'control flow' but instead 'flow control'?
 - Use a definition language for flow control
 - Use a programming language for programming logic
 - It represents the logistics of an application: https://en.wikipedia.org/wiki/Logistics
+
 TODO: Maybe not 'mutation' but instead 'logic operation'?
 - I like the idea of calling blocks of logic 'operations' instead of functions/methods/subroutine
 
